@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [
 `create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) to create an application to create
 stories by using OpenAI to generate the story and the associated story images.
 
+I'm using this as a realistic app in order to refresh my React skills.
+
 Includes:
 
 * React
